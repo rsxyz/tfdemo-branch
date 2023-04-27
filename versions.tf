@@ -4,7 +4,7 @@ terraform {
     organization = "rsxyz123"
 
     workspaces {
-      name = "tf-demo-branch"
+      name = "tf-demo-branch-dev"
     }
   }
 
